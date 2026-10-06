@@ -1,0 +1,16 @@
+<!DOCTIPE html>
+<html lang="ca">
+<head>
+    <metacharset="UTF-8">
+    <title>Jofre</title>
+</head>
+<body>
+    <h1>Jofre</h1>
+    <button id="boto">Toca'm :)</button>
+    <p id="text">Mira aqui</p>
+
+    <script>
+        dcument.getElentById("boto").onclick function () { document.getElementById("text").textContent = "Hola, soc el Jofre i soc el teu asistent personal a l'ordinador i a la vida real."; };
+    </script>
+</body>
+</html>
